@@ -21,13 +21,20 @@ let
                               #Theme
                               papercolor-theme vim-airline-themes
                               gruvbox
+                              molokai
+                              dracula-vim
                               #haskell syntax highlighting
                               haskell-vim vim-hoogle
                               vim-nix
                               #json
                               coc-json
                               #search
-                              ctrlp
+                              #ctrlp --not required anymore
+                              #fzf related
+                              coc-fzf
+                              fzf-vim
+                              #
+                              vim-devicons
                               #additional
                               vim-surround
                               palenight-vim
